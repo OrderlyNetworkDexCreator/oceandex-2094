@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/grokchainteam",
   "VITE_SEO_SITE_NAME": "GrokDex",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://grokdex.finance",
